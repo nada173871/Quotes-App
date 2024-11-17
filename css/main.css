@@ -1,0 +1,14 @@
+section h1{
+    font-family: Impact;
+
+}
+section button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+section button:hover{
+    background-color: green;
+    
+}
